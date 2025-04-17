@@ -1,0 +1,92 @@
+[
+  {
+    "position": "133295",
+    "action_type": "Ball out of play",
+    "majority_vote": 2
+  },
+  {
+    "position": "149168",
+    "action_type": "Throw-in",
+    "majority_vote": 3
+  },
+  {
+    "position": "182775",
+    "action_type": "Corner",
+    "majority_vote": 1
+  },
+  {
+    "position": "246619",
+    "action_type": "Goal",
+    "majority_vote": 2
+  },
+  {
+    "position": "258040",
+    "action_type": "Throw-in",
+    "majority_vote": 2
+  },
+  {
+    "position": "270441",
+    "action_type": "Shots on target",
+    "majority_vote": 3
+  },
+  {
+    "position": "292492",
+    "action_type": "Corner",
+    "majority_vote": 1
+  },
+  {
+    "position": "319710",
+    "action_type": "Offside",
+    "majority_vote": 2
+  },
+  {
+    "position": "347458",
+    "action_type": "Shots on target",
+    "majority_vote": 3
+  },
+  {
+    "position": "421674",
+    "action_type": "Ball out of play",
+    "majority_vote": 1
+  },
+  {
+    "position": "440457",
+    "action_type": "Throw-in",
+    "majority_vote": 1
+  },
+  {
+    "position": "467037",
+    "action_type": "Shots off target",
+    "majority_vote": 2
+  },
+  {
+    "position": "539710",
+    "action_type": "Foul",
+    "majority_vote": 1
+  },
+  {
+    "position": "562959",
+    "action_type": "Clearance",
+    "majority_vote": 2
+  },
+  {
+    "position": "585057",
+    "action_type": "Throw-in",
+    "majority_vote": 3
+  },
+  {
+    "position": "607544",
+    "action_type": "Corner",
+    "majority_vote": 2
+  },
+  {
+    "position": "660739",
+    "action_type": "Yellow Card",
+    "majority_vote": 1
+  },
+  {
+    "position": "667482",
+    "action_type": "Corner",
+    "majority_vote": 2
+  }
+]
